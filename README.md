@@ -10,3 +10,4 @@
      5.                          [8,11,12,16,21,22]
      
                         Big-O Gösterimi------O(nlogn)
+(Patika.dev)[www.patika.dev ]
